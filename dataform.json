@@ -1,7 +1,7 @@
 {
-    "defaultSchema": "dataform",
+    "defaultSchema": "dataform_demo",
     "assertionSchema": "dataform_assertions",
     "warehouse": "bigquery",
-    "defaultDatabase": "dataform-demos",
+    "defaultDatabase": "nagindersingh-477-202304040335",
     "defaultLocation": "us"
 }
